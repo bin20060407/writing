@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "您有空，来坐坐",
 
 	// 站点 URL
-	site_url: "https://bin20060407.github.io",
+	site_url: "https://blog.linyo.cc",
 
 	// 站点描述
 	description:
